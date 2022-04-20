@@ -12,12 +12,19 @@ body {
 }
 
 .banner{
-    padding-right: 20%;
+    padding-right: 10%;
     justify-content:center;
-    margin: 0;
+    margin: 10%;
     align-items: center;
     flex-direction: row;
 
+
+
+}
+
+.banner img{
+    height:400px;
+    width: 550px;
 }
 
 .intro{
@@ -37,6 +44,7 @@ body {
     border-radius: 15%;
     background: #ffffff;
     text-align: center;
+    margin-right: 10%;
 }
 
 .container,
